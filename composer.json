@@ -13,11 +13,10 @@
         "php": "^7.1",
         "symfony/framework-bundle": "^3.4 || ^4.0",
         "symfony/validator": "^3.4 || ^4.0",
-        "symfony/translation": "^3.4 || ^4.0,<4.2",
+        "symfony/translation": "^3.4 || ^4.0",
         "symfony/twig-bundle": "^3.4 || ^4.0",
         "symfony/finder": "^3.4 || ^4.0",
         "symfony/intl": "^3.4 || ^4.0",
-
         "php-translation/common": "^1.0",
         "php-translation/symfony-storage": "^1.0",
         "php-translation/extractor": "^1.6",
